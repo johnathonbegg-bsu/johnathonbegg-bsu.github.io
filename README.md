@@ -1,6 +1,4 @@
-##Johnathon Begg
-
-#Junior at Boise State University
+Junior at Boise State University
 
 ![Profile picture](https://avatars2.githubusercontent.com/u/43049002?s=400&u=71a21369a06e8a68fe0b002960eb1715dfce27c5&v=4)
 
